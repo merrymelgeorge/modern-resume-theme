@@ -10,9 +10,9 @@ name: Merrymel George
 title: Data Engineer - Machine Learning
 email: merrymelgeorge@gmail.com
 # email_title: Email (Email title override)
-phone: +919037683718
+phone: \+919037683718
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+# website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -52,13 +52,14 @@ linkedin_username: merrymelgeorge
 # about_title: About Me (Use this to override about section title)
 about_profile_image:  images/V1~357f99de-eb77-4085-bb3e-487ea958895f~02e0fb93235044ee977dd6aca5bd6e4d~1600.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+    I am a Data Engineer having more than 8 years of experience with expertise spanning from Data Warehouse to Big Data Analytics who is pursuing the career path of Data Science, Machine Learning and Artificial Intelligence.
+  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  #You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #  - Lists
+  #  - Tables
+  #  - <a href="google.com">Links</a>
+  #  - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
