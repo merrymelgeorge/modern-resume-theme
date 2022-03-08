@@ -1,10 +1,10 @@
-# Data Science Portfolio
+# Official Projects
 ---
-## Machine learning
+## Business implementation projects
 
-### Fraud Detection
+### Tools/Technologies used : Hadoop, NiFi, Snowflake, Dremio, Superset, Tableau, Python
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+Analysis of big data, development and management of various reports and dashboards, development of workflows and automation of processes for business projects like Customer Health Index, Customer Hierarchy Cleanup, Growth Levers, and MLOps using Python and related libraries
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
